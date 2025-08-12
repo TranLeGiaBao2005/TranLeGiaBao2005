@@ -1,4 +1,4 @@
-## Hi there 👋
+## Xin chào, tôi là Bảo 👋
 
 <!--
 **TranLeGiaBao2005/TranLeGiaBao2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
